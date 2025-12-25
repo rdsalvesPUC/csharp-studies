@@ -1,0 +1,14 @@
+C:\Users\rdsalves\RiderProjects\csharp-studies\csharp-studies\bin\Debug\net8.0\csharp-studies.exe
+C:\Users\rdsalves\RiderProjects\csharp-studies\csharp-studies\bin\Debug\net8.0\csharp-studies.deps.json
+C:\Users\rdsalves\RiderProjects\csharp-studies\csharp-studies\bin\Debug\net8.0\csharp-studies.runtimeconfig.json
+C:\Users\rdsalves\RiderProjects\csharp-studies\csharp-studies\bin\Debug\net8.0\csharp-studies.dll
+C:\Users\rdsalves\RiderProjects\csharp-studies\csharp-studies\bin\Debug\net8.0\csharp-studies.pdb
+C:\Users\rdsalves\RiderProjects\csharp-studies\csharp-studies\obj\Debug\net8.0\csharp-studies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdsalves\RiderProjects\csharp-studies\csharp-studies\obj\Debug\net8.0\csharp-studies.AssemblyInfoInputs.cache
+C:\Users\rdsalves\RiderProjects\csharp-studies\csharp-studies\obj\Debug\net8.0\csharp-studies.AssemblyInfo.cs
+C:\Users\rdsalves\RiderProjects\csharp-studies\csharp-studies\obj\Debug\net8.0\csharp-studies.csproj.CoreCompileInputs.cache
+C:\Users\rdsalves\RiderProjects\csharp-studies\csharp-studies\obj\Debug\net8.0\csharp-studies.dll
+C:\Users\rdsalves\RiderProjects\csharp-studies\csharp-studies\obj\Debug\net8.0\refint\csharp-studies.dll
+C:\Users\rdsalves\RiderProjects\csharp-studies\csharp-studies\obj\Debug\net8.0\csharp-studies.pdb
+C:\Users\rdsalves\RiderProjects\csharp-studies\csharp-studies\obj\Debug\net8.0\csharp-studies.genruntimeconfig.cache
+C:\Users\rdsalves\RiderProjects\csharp-studies\csharp-studies\obj\Debug\net8.0\ref\csharp-studies.dll
